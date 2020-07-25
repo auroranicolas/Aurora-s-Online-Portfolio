@@ -1,0 +1,16 @@
+h1 {
+Color: rgb(199, 109, 199);
+Font-family: "American Typewriter";
+}
+/* edits class to set backround image for jumbotron*/
+.jumbotron{
+  background-image: url('Images/DogCat.png');
+  object-fit: cover;
+  background-repeat: no repeat;
+}
+section{
+background: rgb(199, 109, 199);
+}
+p{
+  background: white;
+}
